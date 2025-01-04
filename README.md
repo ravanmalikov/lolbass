@@ -1,5 +1,9 @@
-# lolbass Defender Bypass Methodology
+# LOLBASS Defender Bypass Methodology
+
+PS:Create bin payload,host file use it in LOLBAS.txt as project.csproj and compile&execute!!
+
 Paths:
+
 C:\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe
 
 C:\Windows\Microsoft.NET\Framework64\v2.0.50727\Msbuild.exe
