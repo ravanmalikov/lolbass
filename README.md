@@ -1,4 +1,4 @@
-# lolbass
+# lolbass Defender Bypass Methodology
 Paths:
 C:\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe
 
@@ -18,13 +18,12 @@ Build and execute a C# project stored in the target csproj file.
 
 msbuild.exe project.csproj
 
-Use case
-Compile and run code
-Privileges required
-User
-Operating systems
-Windows vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11
-ATT&CK® technique
-T1127.001: MSBuild
-Tags
-Execute: CSharp
+Use case Compile and run code
+
+Privileges required User
+
+Operating system Windows vista, Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11
+
+ATT&CK® techniqueT1127.001: MSBuild
+
+Tags Execute: CSharp
