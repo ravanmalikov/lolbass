@@ -1,11 +1,17 @@
 # lolbass
 Paths:
 C:\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe
+
 C:\Windows\Microsoft.NET\Framework64\v2.0.50727\Msbuild.exe
+
 C:\Windows\Microsoft.NET\Framework\v3.5\Msbuild.exe
+
 C:\Windows\Microsoft.NET\Framework64\v3.5\Msbuild.exe
+
 C:\Windows\Microsoft.NET\Framework\v4.0.30319\Msbuild.exe
+
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Msbuild.exe
+
 C:\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe
 
 Build and execute a C# project stored in the target csproj file.
