@@ -2,6 +2,8 @@
 
 PS:Create bin payload,host file use it in LOLBAS.txt as project.csproj and compile&execute!!
 
+For More Info use PDF.
+
 Paths:
 
 C:\Windows\Microsoft.NET\Framework\v2.0.50727\Msbuild.exe
